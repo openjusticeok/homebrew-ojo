@@ -1,4 +1,4 @@
-class OJO < Formula
+class OJOCLI < Formula
   desc "Open Justice Oklahoma command-line tool for analysts"
   homepage "https://github.com/openjusticeok"
   url ""
